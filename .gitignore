@@ -11,3 +11,14 @@
 *.lai
 *.la
 *.a
+
+# output
+*.out
+*.in
+
+# editor
+*.swp
+*.~
+
+# code blocks
+usaco/
